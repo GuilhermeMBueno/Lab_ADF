@@ -1,0 +1,9 @@
+{
+	"name": "servicobostonadfguibueno",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e2bada3d-75b8-450f-97ba-1e77087df45e",
+		"tenantId": "61584384-9abc-4bd8-8b6d-c163cca529bf"
+	}
+}
